@@ -729,23 +729,23 @@ Creation date: 04/06/2018 14:38
 
 .loader .shape.shape1 {
 	left: 0;
-	background-color: #5c6bc0;
+	background-color: #04774A;
 }
 
 .loader .shape.shape2 {
 	right: 0;
-	background-color: #8bc34a;
+	background-color: #A8B926;
 }
 
 .loader .shape.shape3 {
 	bottom: 0;
-	background-color: #ffb74d;
+	background-color: #04774A;
 }
 
 .loader .shape.shape4 {
 	bottom: 0;
 	right: 0;
-	background-color: #f44336;
+	background-color: #A8B926;
 }
 
 @-webkit-keyframes rotation {
