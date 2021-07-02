@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 24 24" style="enable-background:new 0 0 24 24;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#413CFC;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<path class="st0" d="M16,21v-2c0-2.2-1.8-4-4-4H5c-2.2,0-4,1.8-4,4v2"></path>
+<circle class="st0" cx="8.5" cy="7" r="4"></circle>
+<polyline class="st0" points="17,11 19,13 23,9 "></polyline>
+</svg>
