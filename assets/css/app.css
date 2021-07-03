@@ -2669,8 +2669,9 @@ Creation date: 04/06/2018 14:38
 
 @media (max-width: 767px) {
 	.banner__title {
-		font-size: 34px;
-	}
+	font-size: 34px;
+    margin-top: 30px !important;
+}
 }
 
 .banner__title .text-wrapper {
